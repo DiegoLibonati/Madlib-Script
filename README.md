@@ -26,7 +26,7 @@ I made a python script that allows to play the madlib. Once we execute the scrip
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Madlib%20script`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Madlib%20Script`
 
 ## Video
 
